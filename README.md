@@ -106,8 +106,8 @@ voice-chatbot/
 
 ## Notes
 
-•	Make sure your OpenAI API key has access to the Whisper model and GPT-3.5 Turbo.
-•	If you’re experiencing issues with audio recording or playback, ensure the correct file formats are used and supported by your system.
+- Make sure your OpenAI API key has access to the Whisper model and GPT-3.5 Turbo.
+-	If you’re experiencing issues with audio recording or playback, ensure the correct file formats are used and supported by your system.
 
 ## License
 
