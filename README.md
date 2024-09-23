@@ -109,6 +109,10 @@ voice-chatbot/
 
 <img width="1440" alt="Screenshot 2024-09-22 at 7 45 05 PM" src="https://github.com/user-attachments/assets/c39547e8-40eb-4e07-8e26-ece28c99570c">
 
+<img width="1440" alt="Screenshot 2024-09-22 at 7 25 38 PM" src="https://github.com/user-attachments/assets/48b032df-3e94-4adb-844e-4b8afbfc9803">
+
+<img width="1440" alt="Screenshot 2024-09-22 at 7 25 44 PM" src="https://github.com/user-attachments/assets/6e10c1f2-f806-4fd5-bcff-4dd4edbf0cd2">
+
 
 ## Notes
 
