@@ -106,7 +106,8 @@ voice-chatbot/
 
 ## Screeshots
 
-![Uploading Screenshot 2024-09-22 at 7.45.05 PM.png…]()
+
+<img width="1440" alt="Screenshot 2024-09-22 at 7 45 05 PM" src="https://github.com/user-attachments/assets/c39547e8-40eb-4e07-8e26-ece28c99570c">
 
 
 ## Notes
