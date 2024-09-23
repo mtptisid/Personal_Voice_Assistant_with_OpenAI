@@ -104,6 +104,11 @@ voice-chatbot/
 
 ```
 
+## Screeshots
+
+![Uploading Screenshot 2024-09-22 at 7.45.05 PM.png…]()
+
+
 ## Notes
 
 - Make sure your OpenAI API key has access to the Whisper model and GPT-3.5 Turbo.
