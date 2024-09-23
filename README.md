@@ -102,6 +102,8 @@ voice-chatbot/
 ├── venv/               # Virtual environment (optional)
 └── requirements.txt    # Required Python packages
 
+```
+
 ## Notes
 
 	•	Make sure your OpenAI API key has access to the Whisper model and GPT-3.5 Turbo.
