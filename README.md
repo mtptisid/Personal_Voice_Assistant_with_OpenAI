@@ -26,8 +26,8 @@ This project is a simple voice-based chatbot that uses **Streamlit** and **OpenA
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-repository-name/voice-chatbot.git
-    cd voice-chatbot
+    git clone https://github.com/mtptisid/Personal_Voice_Assistant_with_OpenAI.git
+    cd Personal_Voice_Assistant_with_OpenAI
     ```
 
 2. Create a virtual environment (optional but recommended):
