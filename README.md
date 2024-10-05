@@ -31,7 +31,8 @@ This project is a simple voice-based chatbot that uses **Streamlit** and **OpenA
     ```
 
 2. Create a virtual environment (optional but recommended):
-    **On Linux/Mac
+   
+    **On Linux/Mac**
     ```bash
     python -m venv venv
     source venv/bin/activate 
@@ -41,19 +42,19 @@ This project is a simple voice-based chatbot that uses **Streamlit** and **OpenA
      venv\Scripts\activate
     ```
 
-3. Install the required packages:
+4. Install the required packages:
 
     ```bash
     pip install streamlit openai audio_recorder_streamlit
     ```
 
-4. Create a file named `api_key.py` in the project root directory to store your OpenAI API key:
+5. Create a file named `api_key.py` in the project root directory to store your OpenAI API key:
 
     ```python
     api_key = "your_openai_api_key"
     ```
 
-5. Run the Streamlit app:
+6. Run the Streamlit app:
 
     ```bash
     streamlit run app.py
