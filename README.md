@@ -31,10 +31,14 @@ This project is a simple voice-based chatbot that uses **Streamlit** and **OpenA
     ```
 
 2. Create a virtual environment (optional but recommended):
-
+    **On Linux/Mac
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate 
+    ```
+     **On Windows use** 
+    ```bash
+     venv\Scripts\activate
     ```
 
 3. Install the required packages:
